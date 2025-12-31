@@ -17,6 +17,6 @@ On the teaching side, I have experience teaching various mathematics courses to 
 
 More broadly, I am motivated by applied mathematical modeling and decision-support, with potential applications in areas such as healthcare, robotics, epidemiology, and public policy, particularly in the African context. 
 
-I run a monthly seminar on Control, Game, Decision and Learning (CoGaDeL): https://sites.google.com/ubuea.cm/cogadel/home
+I am a co-organizer of a monthly seminar on Control, Game, Decision and Learning (CoGaDeL), whose activities and research directions can be found at [https://sites.google.com/ubuea.cm/cogadel/home](https://sites.google.com/ubuea.cm/cogadel/home)
 
 A complete list of my publications is available on my Google Scholar profile.
