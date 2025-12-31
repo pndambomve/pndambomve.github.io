@@ -1,21 +1,22 @@
 ---
-title: "Teaching experience 1"
+title: "Ordinary Differential Equations"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
-published: false
+permalink: /teaching/2025-first-semester-teaching-1
+venue: "University of Buea, Department of Mathematics"
+date: 2025-10-15
+location: "Buea, Cameroon"
+#published: false
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In this course, we study existence and uniqueness theorems for first order differential equations, as well as stability analysis for linear and nonlinear systems. 
 
-Heading 1
-======
+## Existence and Uniqueness Results
+We look at Picard-Lindelof local existence and uniqueness result, Cauchy-Lipschitz global existence and uniqueness result, and Peano's existence result. 
 
-Heading 2
-======
+## Stability and Asymptotic Behaviour
+Here, we look at conditions for stablity of the trivial equilibrium state for linear systems and the Lyapunov linearization principle for nonlinear systems.
 
-Heading 3
-======
+## Boundary Value Problems
+Here, we provide a necessary and sufficient condition so that a given boundary
+value problem has a unique solution. We also study Green's functions and how to use them to write the solutions of BVPs.
