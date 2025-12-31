@@ -93,7 +93,5 @@ Teaching
 Service and leadership
 ======
   * Academic Program Coordination
-  * Scientific Communication
   * Mentoring Junior Researchers and Students
-  * Independent and Collaborative Work
   * CoGaDeL Webinar Series coordination
