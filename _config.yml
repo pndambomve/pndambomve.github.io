@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Patrice Ndambomve"
 title_separator          : "-"
 name                     : &name "Patrice Ndambomve"
@@ -29,7 +29,7 @@ author:
   bio              : "Associate Professor of Mathematics"
   location         : # "Earth"
   employer         : "University of Buea"
-  uri              : # URL
+  uri              : "https://www.ubuea.cm/"
   email            : "ndambomve.patrice@ubuea.cm" 
 
   # Academic websites
